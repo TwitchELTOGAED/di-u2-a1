@@ -1,3 +1,5 @@
+import Profile from './Profile.js';
+
 export default function Gallery() {
     return (
       <section>
